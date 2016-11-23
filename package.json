@@ -1,0 +1,26 @@
+{
+  "name": "test-casper",
+  "version": "1.0.0",
+  "description": "Test assignment for Proffibit",
+  "main": "index.js",
+  "dependencies": {
+    "casperjs": "^1.1.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/marykin/proffibit.git"
+  },
+  "keywords": [
+    "proffibit"
+  ],
+  "author": "Marina Yaremova",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/marykin/proffibit/issues"
+  },
+  "homepage": "https://github.com/marykin/proffibit#readme"
+}
